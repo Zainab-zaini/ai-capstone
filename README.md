@@ -1,7 +1,6 @@
-# ai-capstone
 # AI Capstone
 
-This repository is created as part of my AI Internship capstone setup.
+A capstone project repository for my AI Internship, built with AI-assisted development.
 
 ## Tech Stack
 - Node.js
